@@ -1,2 +1,4 @@
 mtiff
 =====
+
+Requires OpenCV
